@@ -123,7 +123,7 @@ select(.name=="Equipment_State")'.id
 ```
 
 ## Bag Handling System (BHS) Data Simulation
-You can capture and stream data to AWS IoT SiteWise from a physical BHS as described on the AWS Blog [Creating OEE Dashboards for AWS IoT SiteWise](update-link.com). Alternatively , you can do it by using historical data captured from a physical system. The sample data is provided in this repository in order for you to run a simulation of a BHS and stream data to AWS IoT SiteWise as if sensor data was being generated in real time.
+You can capture and stream data to AWS IoT SiteWise from a physical BHS as described on the AWS Blog [Creating OEE Dashboards for AWS IoT SiteWise](update-link.com). Alternatively , you can do it by using historical data captured from a physical system. The sample data provided in this repository is synthetic data in order for you to run a simulation of a BHS and stream it to AWS IoT SiteWise as if sensor data was being generated in real time.
 
 ### Setting up the environment for data streaming to AWS IoT SiteWise
 1. From the environment where you cloned the project, navigate to the sample data `sensor_data.tar.gz` location.
@@ -134,7 +134,7 @@ cd oee-dashboards-for-aws-iot-sitewise/
 ```
 tar -xvzf sensor_data.tar.gz
 ```
-This will create the 2022_april directory. 
+This will create the 2022_sdata directory. 
 
 **NOTE:** if you have been following the instructions on the AWS Blog [Creating OEE Dashboards for AWS IoT SiteWise](update-link.com) you will have an Asset already created in AWS IoT SiteWise, including attributes and measurements. 
 

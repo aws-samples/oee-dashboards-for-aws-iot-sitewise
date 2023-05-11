@@ -49,8 +49,8 @@ if sys.version_info < (3, 7):
 
 def main():
 
-    #Stream data for April 2022
-    local_directory = os.getcwd() + '/2022_april'
+    #Stream data
+    local_directory = os.getcwd() + '/2022_sdata'
     boto3.setup_default_session(profile_name='default')
     session = boto3.session.Session()
     region = session.region_name
