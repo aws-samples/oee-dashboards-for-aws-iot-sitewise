@@ -1,0 +1,155 @@
+{
+    "entries": [
+      {
+        "entryId": "VibrationL-Crest",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "2e2d8591-91a6-47b7-b30b-f12862caa666",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationL-Fatigue",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "93768415-741d-4e77-bc87-5c52f02ef29e",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationL-Friction",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "48dd8aaf-a2b5-48a8-ad32-3b449933cb71",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationL-Impact",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "98d359c5-bde1-4077-a7bd-f3e809a7f22b",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationL-Temperature",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "e3f1c4e0-a05c-4652-b640-7e3402e8d6a1",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationR-Crest",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "f15f4954-2219-4e28-8930-0758d807c259",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationR-Fatigue",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "74f6e25e-f8c9-4248-9daf-dacc4ec82e9e",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationR-Friction",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "d37f29a9-99de-429a-9c7e-b73dacf4b4b4",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationR-Impact",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "3c2617a3-dfb4-48ba-b2fe-79bccbddcf2d",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "VibrationR-Temperature",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "b9554855-b50f-4b56-a5f2-572fbd1a8967",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      }
+      
+    ]
+}

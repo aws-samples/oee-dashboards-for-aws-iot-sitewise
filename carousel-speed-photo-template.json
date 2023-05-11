@@ -1,0 +1,49 @@
+{
+    "entries": [
+      {
+        "entryId": "Photo-Bag_Detected",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "5b586474-7bff-4549-89e3-d07a858c6f2b",
+        "propertyValues": [
+          {
+            "value": {
+              "booleanValue": false
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "Photo-Distance",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "4b4fa2a4-90cc-47ec-b06e-47837d05bf84",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 107
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      },
+      {
+        "entryId": "Speed-PDV1",
+        "assetId": "b50a2f9f-e2d6-42c1-97b2-591169a4f270",
+        "propertyId": "d17d07c7-442d-4897-911b-4b267519ae3d",
+        "propertyValues": [
+          {
+            "value": {
+              "doubleValue": 0
+            },
+            "timestamp": {
+              "timeInSeconds": 1667508108
+            }
+          }
+        ]
+      }
+    ]
+}

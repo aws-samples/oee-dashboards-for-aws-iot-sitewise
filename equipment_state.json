@@ -1,0 +1,47 @@
+{
+    "name": "Equipment_State",
+    "dataType": "DOUBLE",
+    "type": {
+        "transform": {
+            "expression": "if((var_speedpdv1>var_speedmax_speed_alarm) or (var_speedpdv1<var_speedmin_speed_alarm) or (var_vibrationltemperature>var_vibrationmax_temp_c_alarm) or (var_vibrationrtemperature>var_vibrationmax_temp_c_alarm),1020).elif(eq(var_speedpdv1,0),1000,1111)",
+            "variables": [
+                {
+                    "name": "var_vibrationrtemperature",
+                    "value": {
+                        "propertyId": "b9554855-b50f-4b56-a5f2-572fbd1a8967"
+                    }
+                },
+                {
+                    "name": "var_vibrationltemperature",
+                    "value": {
+                        "propertyId": "e3f1c4e0-a05c-4652-b640-7e3402e8d6a1"
+                    }
+                },
+                {
+                    "name": "var_vibrationmax_temp_c_alarm",
+                    "value": {
+                        "propertyId": "f54e16fd-dd9f-46b4-b8b2-c411cdef79a2"
+                    }
+                },
+                {
+                    "name": "var_speedpdv1",
+                    "value": {
+                        "propertyId": "d17d07c7-442d-4897-911b-4b267519ae3d"
+                    }
+                },
+                {
+                    "name": "var_speedmin_speed_alarm",
+                    "value": {
+                        "propertyId": "7a927051-a569-41c0-974f-7b7290d7e73c"
+                    }
+                },
+                {
+                    "name": "var_speedmax_speed_alarm",
+                    "value": {
+                        "propertyId": "0897a3b4-1c52-4e80-80fc-0a632e09da7e"
+                    }
+                }
+            ]
+        }
+    }
+}
